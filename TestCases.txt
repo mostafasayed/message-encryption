@@ -1,0 +1,25 @@
+* Call convert_sentence_to_word function
+* Test return value from convert_sentence_to_word word
+* Test return value from convert_sentence_to_word integer
+* Test return value from convert_sentence_to_word float
+* Test return value from convert_sentence_to_word mixing alphabet and numbers
+* Call caesar_shift_message function
+* Test return value from caesar_shift_message letter, positive caesar
+* Test return value from caesar_shift_message letter, negative caesar
+* Test return value from caesar_shift_message word, positive caesar
+* Test return value from caesar_shift_message word, negative caesar
+* Test return value from caesar_shift_message word contain punctuation, positive caesar
+* Test return value from caesar_shift_message word contain punctuation, negative caesar
+* Test return value from caesar_shift_message full sentence, positive caesar
+* Test return value from caesar_shift_message full sentence, negative caesar
+* Call equivalent_binary function
+* Test return value from equivalent_binary
+* Call encode_binary function
+* Test return value from encode_binary
+* Call convert_encode_to_bin function
+* Test return value from convert_encode_to_bin
+* Call convert_to_hex function
+* Test return value from convert_to_hex
+* Call encrypt_message function
+* Test encrypt_message with single input
+- Test encrypt_message with multi input
